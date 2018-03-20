@@ -1,3 +1,11 @@
+# FUCKCODE
+  
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg?style=flat-square) ![Attribution-NonCommercial-ShareAlike CC BY-NC-SA](LICENSE.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+
+[![GitHub watchers](https://img.shields.io/github/watchers/fk-code/fuckcode.svg?style=flat-square&logo=github&label=Watch)](https://github.com/fk-code/fuckcode/watchers)  [![GitHub stars](https://img.shields.io/github/stars/fk-code/fuckcode.svg?style=flat-square&logo=github&label=Stars)](https://github.com/fk-code/fuckcode/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/fk-code/fuckcode.svg?style=flat-square&logo=github&label=Fork)](https://github.com/fk-code/fuckcode/network) 
+
+
 ## 记录编程语言非常糟糕的代码(经常容易忽略的问题或者编程语言的设计缺陷) 
 ## WebSite: http://www.fuckcode.cc
  
